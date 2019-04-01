@@ -1,5 +1,8 @@
 # rest-api
 
+## Usage
+Access the API via https://vyonizr-rest-api.herokuapp.com/
+
 ## List of routes
 
 | Route | HTTP | Header(s) | Body | Description |
